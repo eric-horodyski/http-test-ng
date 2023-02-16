@@ -1,0 +1,7 @@
+{
+  "name": "http-test-ng",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
